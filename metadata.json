@@ -1,0 +1,5 @@
+{
+  "name": "Victaulic",
+  "description": "A powerful image analysis tool that uses Gemini 2.5 Flash to process multiple photos and provide detailed AI-generated insights based on your prompts.",
+  "requestFramePermissions": []
+}
